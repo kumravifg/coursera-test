@@ -1,0 +1,23 @@
+.border1 {
+	background-color : lightblue;
+	border : 1px solid;
+}
+
+.border2 {
+	background-color : lightblue;
+	border : 1px solid;
+	border-top : 0px;
+}
+
+
+.marg {
+	margin : 0px;
+	padding : 0px;
+}
+
+.sec {
+	background-color : lightgreen;
+	padding :5px 5px;
+	border : 1px solid;
+	margin-bottom : 10px;
+}
